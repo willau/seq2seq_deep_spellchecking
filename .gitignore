@@ -1,2 +1,4 @@
 # ignore files
 .ipynb_checkpoints
+data/*
+!data/.gitkeep
